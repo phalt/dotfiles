@@ -13,6 +13,7 @@ make fresh
 
 ```sh
 make mac-apps
+make dev-stuff
 ```
 
 # Files
