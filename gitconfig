@@ -1,0 +1,8 @@
+[user]
+	name = Paul Hallett
+	signingkey = FILL ME IN
+	email = FILL ME IN
+[commit]
+	gpgsign = True
+[gpg]
+	program = gpg
